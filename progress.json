@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T00:47:30.741Z",
+  "generated_at": "2026-11-06T23:25:05.594Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -22,6 +22,19 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-09-28T00:47:27.799Z",
       "last_pushed_at": "2026-09-28T00:47:27.799Z"
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2026-11-06T23:25:04.944Z",
+      "last_pushed_at": "2026-11-06T23:25:04.944Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
